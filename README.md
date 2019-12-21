@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# oP3Y 
+### Hosted by Ope Daodu
 
-You can use the [editor on GitHub](https://github.com/OP3-Daodu/OP3-Daodu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my Website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BSc (Hons) Games Development Level 4 Student | Staffordshire University
 
-### Markdown
+## The Content Creator
+![Ope Daodu](https://media.licdn.com/dms/image/C5603AQGPu1A86lvDBg/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=SH2VEZzZmcEfr6ztBCT48cPZABUvKd-o0vAvpAotZNc)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Services
+- Adobe Premiere Pro and After Effects
+- Photoshop
+- Adobe Illustrator
+- Python Programming
 
-```markdown
-Syntax highlighted code block
+## Contact me @ :
+* [My LinkedIn for Work Info](https://www.linkedin.com/in/ope-daodu123/)
+* [My Twitter - Follow me](https://twitter.com/ItsOp3y)
+* [My GitHub profile](https://github.com/OP3-Daodu)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OP3-Daodu/OP3-Daodu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The theme I have used is from Jekyll Themes.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email me at: 
+> edaodu@yahoo.co.uk
