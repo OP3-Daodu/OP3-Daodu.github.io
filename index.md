@@ -1,7 +1,7 @@
 # oP3Y 
 ### Hosted by Ope Daodu
 
-                                                          Welcome to my Website
+                      Welcome to my Website
 
 BSc (Hons) Games Development Level 4 Student | Staffordshire University
 
