@@ -6,7 +6,7 @@
 BSc (Hons) Games Development Level 4 Student | Staffordshire University
 
 ## The Content Creator
-![Ope Daodu](https://media.licdn.com/dms/image/C5603AQGPu1A86lvDBg/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=SH2VEZzZmcEfr6ztBCT48cPZABUvKd-o0vAvpAotZNc)
+![Ope Daodu](https://raw.githubusercontent.com/OP3-Daodu/OP3-Daodu.github.io/master/me.jpg "The Content Creator")
 
 ## Services
 - Software Programming (C++ and Python)
