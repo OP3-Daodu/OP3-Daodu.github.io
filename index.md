@@ -1,7 +1,7 @@
 # oP3Y 
 ### Hosted by Ope Daodu
 
-                      Welcome to my Website
+Welcome to my Website
 
 BSc (Hons) Games Development Level 4 Student | Staffordshire University
 
@@ -22,6 +22,8 @@ BSc (Hons) Games Development Level 4 Student | Staffordshire University
 ### Jekyll Themes
 
 The theme I have used is from Jekyll Themes.
+
+    Interestingly, this theme makes a custom horizontal scroll for longer texts and more than 3 spaces at the start of each line.
 
 ### Support or Contact
 Email me at: 
