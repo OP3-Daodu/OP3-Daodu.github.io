@@ -1,29 +1,32 @@
-# oP3Y 
-### Hosted by Ope Daodu
+## ReadMe File 
+### by Ope Daodu
 
 Welcome to my Website.
 
 BSc (Hons) Games Development Level 4 Student | Staffordshire University
 
-## The Content Creator
-![Ope Daodu](https://media.licdn.com/dms/image/C5603AQGPu1A86lvDBg/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=SH2VEZzZmcEfr6ztBCT48cPZABUvKd-o0vAvpAotZNc)
-
-## Services
-- Adobe Premiere Pro and After Effects
-- Photoshop
-- Adobe Illustrator
-- Python Programming
-
-## Contact me @ :
-* [My LinkedIn for Work Info](https://www.linkedin.com/in/ope-daodu123/)
-* [My Twitter - Follow me](https://twitter.com/ItsOp3y)
-* [My GitHub profile](https://github.com/OP3-Daodu)
+### Project
+This project is to create a One-Page website that contains a profile picture, bio and all links to my Pro Social Pyramid to show my other accounts and ways to contact me.
 
 
-### Jekyll Themes
+### Contributions 
+If you would like to send pull requests of any innovative ways to improve this One-Page website using Markdown, HTML, etc, do not shy away from showing it to author of the page.
 
-The theme I have used is from Jekyll Themes.
 
-### Support or Contact
-Email me at: 
-> edaodu@yahoo.co.uk
+### Credits
+Author - Ope Daodu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
