@@ -13,6 +13,9 @@ BSc (Hons) Games Development Level 4 Student | Staffordshire University
 - Adobe Premiere Pro and After Effects
 - Adobe Illustrator
 
+## Latest Project I am working on:
+https://github.com/OP3-Daodu/OpenGL-1https://github.com/OP3-Daodu/OpenGL-1
+
 ## Contact me @ :
 * [My LinkedIn for Work Info](https://www.linkedin.com/in/ope-daodu123/)
 * [My Twitter - Follow me](https://twitter.com/OpeDaoud)
