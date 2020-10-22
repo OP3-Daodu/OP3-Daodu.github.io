@@ -13,6 +13,9 @@ BSc (Hons) Computer Science For Games Level 5 Student | Sheffield Hallam Univers
 ## Latest Project I am working on:
 [My Last OpenGL Project](https://github.com/OP3-Daodu/OpenGL-1)
 
+## My current CV:
+[MY CV](https://github.com/OP3-Daodu/MyCV/blob/master/Ope%20CV%202020.pdf)
+
 ## Contact me @ :
 * [My LinkedIn for Work Info](https://www.linkedin.com/in/ope-daodu123/)
 * [My Twitter - Follow me](https://twitter.com/OpeDaoud)
