@@ -3,7 +3,7 @@
 
 Welcome to my Website
 
-BSc (Hons) Games Development Level 4 Student | Staffordshire University
+BSc (Hons) Computer Science For Games Level 5 Student | Sheffield Hallam University
 
 ## The Content Creator
 ![Ope Daodu](https://raw.githubusercontent.com/OP3-Daodu/OP3-Daodu.github.io/master/me.jpg "The Content Creator")
@@ -11,10 +11,9 @@ BSc (Hons) Games Development Level 4 Student | Staffordshire University
 ## Services
 - Software Programming (C++ and Python)
 - Adobe Premiere Pro and After Effects
-- Adobe Illustrator
 
 ## Latest Project I am working on:
-[My Last OpenGL Project](https://github.com/OP3-Daodu/OpenGL-1https://github.com/OP3-Daodu/OpenGL-1)
+[My Last OpenGL Project](https://github.com/OP3-Daodu/OpenGL-1)
 
 ## Contact me @ :
 * [My LinkedIn for Work Info](https://www.linkedin.com/in/ope-daodu123/)
