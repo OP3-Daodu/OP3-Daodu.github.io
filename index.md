@@ -1,8 +1,6 @@
 # oP3Y 
 ### Hosted by Ope Daodu
 
-Welcome to my Website
-
 BSc (Hons) Computer Science For Games Level 5 Student | Sheffield Hallam University
 
 ## The Content Creator
